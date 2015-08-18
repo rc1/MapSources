@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource> 
+	<name>Ordnance Survey</name>
+	<minZoom>0</minZoom>
+	<maxZoom>20</maxZoom>
+	<url>http://ecn.{$serverpart}.tiles.virtualearth.net/tiles/{$quad}.png?g=41&productSet=mmOS</url>
+	<serverParts>t1 t2 t3</serverParts>
+</customMapSource>
